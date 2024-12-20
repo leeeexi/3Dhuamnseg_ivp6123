@@ -1,0 +1,15 @@
+- 0 - background 
+- 1 - head
+- 2 - torso
+- 3 - right upper arm
+- 4 - left upper arm
+- 5 - right forearm 
+- 6 - left forearm
+- 7 - right hand
+- 8 - left hand
+- 9 - right thigh
+- 10 -  left thigh
+- 11 -  right shank
+- 12 - left shank, 
+- 13 - right foot 
+- 14 - left foot
